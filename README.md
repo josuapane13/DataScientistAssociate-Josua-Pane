@@ -13,7 +13,7 @@ This repository is structured to provide a clear overview of my projects and con
 * **`presentations/`**: Contains presentation slides (e.g., `introduction_to_project.pptx`, `analysis_summary.pdf`) used to communicate findings and project progress.
 * **`python_scripts/`**: Includes various Python scripts and Jupyter notebooks (`.py`, `.ipynb`) developed for data cleaning, analysis, modeling, and visualization.
 * **`datasets/`**: Stores the raw and processed datasets used in the analyses. *Note: Larger datasets may be external links or summarized due to GitHub size limits.*
-* **`images/`**: A collection of visuals, charts, and infographics generated during the data analysis process to support presentations and reports.
+* **`graphs/`**: A collection of visuals, charts, and infographics generated during the data analysis process to support presentations and reports.
 
 ---
 
