@@ -8,12 +8,12 @@ This repository contains materials related to the Data Scientist Associate role 
 
 ## Contents
 
-This repository is structured to provide a clear overview of my projects and contributions. Here's a breakdown of what you'll find:
+This repository is structured to provide a clear overview of insights. Here's a breakdown of what you'll find:
 
-* **`presentations/`**: Contains presentation slides (e.g., `introduction_to_project.pptx`, `analysis_summary.pdf`) used to communicate findings and project progress.
-* **`python_scripts/`**: Includes various Python scripts and Jupyter notebooks (`.py`, `.ipynb`) developed for data cleaning, analysis, modeling, and visualization.
-* **`datasets/`**: Stores the raw and processed datasets used in the analyses. *Note: Larger datasets may be external links or summarized due to GitHub size limits.*
-* **`graphs/`**: A collection of visuals, charts, and infographics generated during the data analysis process to support presentations and reports.
+* **`presentations/`**: Contains presentation slides (e.g., `PresentationBinaPertiwi-DataScientist.pptx')
+* **`python_scripts/`**: Includes various Python scripts and Jupyter notebooks (`.py`, `.ipynb`) developed for each problems.
+* **`datasets/`**: Stores the raw datasets used in the analyses.
+* **`graphs/`**: A collection of visuals, charts, and infographics generated during the data analysis
 
 ---
 
