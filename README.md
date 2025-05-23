@@ -31,8 +31,6 @@ This repository is structured to provide a clear overview of insights. Here's a 
     ```bash
     git clone [https://github.com/josuapane13/DataScientistAssociate-Josua-Pane.git](https://github.com/josuapane13/DataScientistAssociate-Josua-Pane.git)
     ```
-    (Ensure you replace `josuapane13/DataScientistAssociate-Josua-Pane.git` with your actual repository URL if it's different).
-
 2.  **Explore folders**: Navigate through the `presentations`, `python_scripts`, `datasets`, and `images` folders to access specific project components.
 3.  **Run scripts**: If you have Python scripts, ensure you have the necessary environments and libraries installed to run them.
 
